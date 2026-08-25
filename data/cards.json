@@ -28,7 +28,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-001.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-001.webp"
+      "thumb": "assets/cards/thumbs/TY01-001.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-002",
@@ -52,7 +53,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-002.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-002.webp"
+      "thumb": "assets/cards/thumbs/TY01-002.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-003",
@@ -76,7 +78,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-003.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-003.webp"
+      "thumb": "assets/cards/thumbs/TY01-003.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-004",
@@ -100,7 +103,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-004.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-004.webp"
+      "thumb": "assets/cards/thumbs/TY01-004.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-005",
@@ -124,7 +128,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-005.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-005.webp"
+      "thumb": "assets/cards/thumbs/TY01-005.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-006",
@@ -148,7 +153,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-006.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-006.webp"
+      "thumb": "assets/cards/thumbs/TY01-006.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-007",
@@ -172,7 +178,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-007.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-007.webp"
+      "thumb": "assets/cards/thumbs/TY01-007.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-008",
@@ -196,7 +203,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-008.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-008.webp"
+      "thumb": "assets/cards/thumbs/TY01-008.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-009",
@@ -220,7 +228,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-009.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-009.webp"
+      "thumb": "assets/cards/thumbs/TY01-009.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-010",
@@ -244,7 +253,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-010.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-010.webp"
+      "thumb": "assets/cards/thumbs/TY01-010.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-011",
@@ -268,7 +278,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-011.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-011.webp"
+      "thumb": "assets/cards/thumbs/TY01-011.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-012",
@@ -292,7 +303,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-012.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-012.webp"
+      "thumb": "assets/cards/thumbs/TY01-012.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-013",
@@ -316,7 +328,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-013.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-013.webp"
+      "thumb": "assets/cards/thumbs/TY01-013.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-014",
@@ -340,7 +353,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-014.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-014.webp"
+      "thumb": "assets/cards/thumbs/TY01-014.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-015",
@@ -364,7 +378,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-015.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-015.webp"
+      "thumb": "assets/cards/thumbs/TY01-015.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-016",
@@ -388,7 +403,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-016.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-016.webp"
+      "thumb": "assets/cards/thumbs/TY01-016.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-017",
@@ -412,7 +428,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-017.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-017.webp"
+      "thumb": "assets/cards/thumbs/TY01-017.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-018",
@@ -436,7 +453,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-018.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-018.webp"
+      "thumb": "assets/cards/thumbs/TY01-018.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-019",
@@ -460,7 +478,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-019.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-019.webp"
+      "thumb": "assets/cards/thumbs/TY01-019.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-020",
@@ -484,7 +503,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-020.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-020.webp"
+      "thumb": "assets/cards/thumbs/TY01-020.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-021",
@@ -508,7 +528,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-021.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-021.webp"
+      "thumb": "assets/cards/thumbs/TY01-021.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-022",
@@ -532,7 +553,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-022.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-022.webp"
+      "thumb": "assets/cards/thumbs/TY01-022.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-023",
@@ -556,7 +578,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-023.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-023.webp"
+      "thumb": "assets/cards/thumbs/TY01-023.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-024",
@@ -580,7 +603,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-024.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-024.webp"
+      "thumb": "assets/cards/thumbs/TY01-024.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-025",
@@ -604,7 +628,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-025.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-025.webp"
+      "thumb": "assets/cards/thumbs/TY01-025.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-026",
@@ -628,7 +653,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-026.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-026.webp"
+      "thumb": "assets/cards/thumbs/TY01-026.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-027",
@@ -652,7 +678,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-027.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-027.webp"
+      "thumb": "assets/cards/thumbs/TY01-027.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-028",
@@ -676,7 +703,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-028.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-028.webp"
+      "thumb": "assets/cards/thumbs/TY01-028.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-029",
@@ -700,7 +728,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-029.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-029.webp"
+      "thumb": "assets/cards/thumbs/TY01-029.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-030",
@@ -724,7 +753,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-030.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-030.webp"
+      "thumb": "assets/cards/thumbs/TY01-030.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-031",
@@ -748,7 +778,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-031.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-031.webp"
+      "thumb": "assets/cards/thumbs/TY01-031.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-032",
@@ -772,7 +803,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-032.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-032.webp"
+      "thumb": "assets/cards/thumbs/TY01-032.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-033",
@@ -796,7 +828,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-033.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-033.webp"
+      "thumb": "assets/cards/thumbs/TY01-033.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-034",
@@ -820,7 +853,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-034.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-034.webp"
+      "thumb": "assets/cards/thumbs/TY01-034.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-035",
@@ -844,7 +878,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-035.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-035.webp"
+      "thumb": "assets/cards/thumbs/TY01-035.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-036",
@@ -868,7 +903,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-036.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-036.webp"
+      "thumb": "assets/cards/thumbs/TY01-036.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-037",
@@ -892,7 +928,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-037.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-037.webp"
+      "thumb": "assets/cards/thumbs/TY01-037.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-038",
@@ -916,7 +953,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-038.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-038.webp"
+      "thumb": "assets/cards/thumbs/TY01-038.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-039",
@@ -940,7 +978,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-039.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-039.webp"
+      "thumb": "assets/cards/thumbs/TY01-039.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-040",
@@ -964,7 +1003,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-040.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-040.webp"
+      "thumb": "assets/cards/thumbs/TY01-040.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-041",
@@ -988,7 +1028,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-041.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-041.webp"
+      "thumb": "assets/cards/thumbs/TY01-041.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-042",
@@ -1012,7 +1053,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-042.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-042.webp"
+      "thumb": "assets/cards/thumbs/TY01-042.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-043",
@@ -1036,7 +1078,8 @@
       "starterCount": 1,
       "image": "assets/cards/webp/TY01-043.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-043.webp"
+      "thumb": "assets/cards/thumbs/TY01-043.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-044",
@@ -1060,7 +1103,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-044.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-044.webp"
+      "thumb": "assets/cards/thumbs/TY01-044.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-045",
@@ -1084,7 +1128,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-045.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-045.webp"
+      "thumb": "assets/cards/thumbs/TY01-045.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-046",
@@ -1108,7 +1153,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-046.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-046.webp"
+      "thumb": "assets/cards/thumbs/TY01-046.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-047",
@@ -1132,7 +1178,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-047.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-047.webp"
+      "thumb": "assets/cards/thumbs/TY01-047.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-048",
@@ -1156,7 +1203,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-048.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-048.webp"
+      "thumb": "assets/cards/thumbs/TY01-048.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-049",
@@ -1180,7 +1228,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-049.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-049.webp"
+      "thumb": "assets/cards/thumbs/TY01-049.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-050",
@@ -1204,7 +1253,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-050.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-050.webp"
+      "thumb": "assets/cards/thumbs/TY01-050.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-051",
@@ -1228,7 +1278,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-051.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-051.webp"
+      "thumb": "assets/cards/thumbs/TY01-051.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-052",
@@ -1252,7 +1303,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-052.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-052.webp"
+      "thumb": "assets/cards/thumbs/TY01-052.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-053",
@@ -1276,7 +1328,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-053.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-053.webp"
+      "thumb": "assets/cards/thumbs/TY01-053.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-054",
@@ -1300,7 +1353,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-054.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-054.webp"
+      "thumb": "assets/cards/thumbs/TY01-054.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-055",
@@ -1324,7 +1378,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-055.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-055.webp"
+      "thumb": "assets/cards/thumbs/TY01-055.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-056",
@@ -1348,7 +1403,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-056.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-056.webp"
+      "thumb": "assets/cards/thumbs/TY01-056.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-057",
@@ -1372,7 +1428,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-057.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-057.webp"
+      "thumb": "assets/cards/thumbs/TY01-057.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-058",
@@ -1396,7 +1453,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-058.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-058.webp"
+      "thumb": "assets/cards/thumbs/TY01-058.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-059",
@@ -1420,7 +1478,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-059.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-059.webp"
+      "thumb": "assets/cards/thumbs/TY01-059.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-060",
@@ -1444,7 +1503,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-060.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-060.webp"
+      "thumb": "assets/cards/thumbs/TY01-060.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-061",
@@ -1468,7 +1528,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-061.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-061.webp"
+      "thumb": "assets/cards/thumbs/TY01-061.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-062",
@@ -1492,7 +1553,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-062.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-062.webp"
+      "thumb": "assets/cards/thumbs/TY01-062.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-063",
@@ -1516,7 +1578,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-063.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-063.webp"
+      "thumb": "assets/cards/thumbs/TY01-063.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-064",
@@ -1540,7 +1603,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-064.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-064.webp"
+      "thumb": "assets/cards/thumbs/TY01-064.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-065",
@@ -1564,7 +1628,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-065.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-065.webp"
+      "thumb": "assets/cards/thumbs/TY01-065.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-066",
@@ -1588,7 +1653,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-066.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-066.webp"
+      "thumb": "assets/cards/thumbs/TY01-066.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-067",
@@ -1612,7 +1678,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-067.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-067.webp"
+      "thumb": "assets/cards/thumbs/TY01-067.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-068",
@@ -1636,7 +1703,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-068.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-068.webp"
+      "thumb": "assets/cards/thumbs/TY01-068.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-069",
@@ -1660,7 +1728,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-069.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-069.webp"
+      "thumb": "assets/cards/thumbs/TY01-069.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-070",
@@ -1684,7 +1753,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-070.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-070.webp"
+      "thumb": "assets/cards/thumbs/TY01-070.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-071",
@@ -1708,7 +1778,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-071.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-071.webp"
+      "thumb": "assets/cards/thumbs/TY01-071.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-072",
@@ -1732,7 +1803,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-072.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-072.webp"
+      "thumb": "assets/cards/thumbs/TY01-072.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-073",
@@ -1756,7 +1828,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-073.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-073.webp"
+      "thumb": "assets/cards/thumbs/TY01-073.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-074",
@@ -1780,7 +1853,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-074.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-074.webp"
+      "thumb": "assets/cards/thumbs/TY01-074.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-075",
@@ -1804,7 +1878,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-075.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-075.webp"
+      "thumb": "assets/cards/thumbs/TY01-075.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-076",
@@ -1828,7 +1903,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-076.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-076.webp"
+      "thumb": "assets/cards/thumbs/TY01-076.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-077",
@@ -1852,7 +1928,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-077.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-077.webp"
+      "thumb": "assets/cards/thumbs/TY01-077.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-078",
@@ -1876,7 +1953,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-078.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-078.webp"
+      "thumb": "assets/cards/thumbs/TY01-078.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-079",
@@ -1900,7 +1978,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-079.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-079.webp"
+      "thumb": "assets/cards/thumbs/TY01-079.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-080",
@@ -1924,7 +2003,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-080.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-080.webp"
+      "thumb": "assets/cards/thumbs/TY01-080.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-081",
@@ -1948,7 +2028,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-081.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-081.webp"
+      "thumb": "assets/cards/thumbs/TY01-081.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-082",
@@ -1972,7 +2053,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-082.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-082.webp"
+      "thumb": "assets/cards/thumbs/TY01-082.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-083",
@@ -1996,7 +2078,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-083.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-083.webp"
+      "thumb": "assets/cards/thumbs/TY01-083.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-084",
@@ -2020,7 +2103,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-084.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-084.webp"
+      "thumb": "assets/cards/thumbs/TY01-084.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-085",
@@ -2044,7 +2128,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-085.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-085.webp"
+      "thumb": "assets/cards/thumbs/TY01-085.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-086",
@@ -2068,7 +2153,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-086.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-086.webp"
+      "thumb": "assets/cards/thumbs/TY01-086.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-087",
@@ -2092,7 +2178,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-087.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-087.webp"
+      "thumb": "assets/cards/thumbs/TY01-087.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-088",
@@ -2116,7 +2203,8 @@
       "starterCount": 1,
       "image": "assets/cards/webp/TY01-088.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-088.webp"
+      "thumb": "assets/cards/thumbs/TY01-088.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-089",
@@ -2140,7 +2228,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-089.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-089.webp"
+      "thumb": "assets/cards/thumbs/TY01-089.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-090",
@@ -2164,7 +2253,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-090.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-090.webp"
+      "thumb": "assets/cards/thumbs/TY01-090.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-091",
@@ -2188,7 +2278,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-091.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-091.webp"
+      "thumb": "assets/cards/thumbs/TY01-091.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-092",
@@ -2212,7 +2303,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-092.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-092.webp"
+      "thumb": "assets/cards/thumbs/TY01-092.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-093",
@@ -2236,7 +2328,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-093.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-093.webp"
+      "thumb": "assets/cards/thumbs/TY01-093.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-094",
@@ -2260,7 +2353,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-094.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-094.webp"
+      "thumb": "assets/cards/thumbs/TY01-094.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-095",
@@ -2284,7 +2378,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-095.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-095.webp"
+      "thumb": "assets/cards/thumbs/TY01-095.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-096",
@@ -2308,7 +2403,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-096.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-096.webp"
+      "thumb": "assets/cards/thumbs/TY01-096.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-097",
@@ -2332,7 +2428,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-097.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-097.webp"
+      "thumb": "assets/cards/thumbs/TY01-097.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-098",
@@ -2356,7 +2453,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-098.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-098.webp"
+      "thumb": "assets/cards/thumbs/TY01-098.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-099",
@@ -2380,7 +2478,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-099.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-099.webp"
+      "thumb": "assets/cards/thumbs/TY01-099.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-100",
@@ -2404,7 +2503,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-100.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-100.webp"
+      "thumb": "assets/cards/thumbs/TY01-100.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-101",
@@ -2428,7 +2528,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-101.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-101.webp"
+      "thumb": "assets/cards/thumbs/TY01-101.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-102",
@@ -2452,7 +2553,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-102.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-102.webp"
+      "thumb": "assets/cards/thumbs/TY01-102.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-103",
@@ -2476,7 +2578,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-103.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-103.webp"
+      "thumb": "assets/cards/thumbs/TY01-103.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-104",
@@ -2500,7 +2603,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-104.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-104.webp"
+      "thumb": "assets/cards/thumbs/TY01-104.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-105",
@@ -2524,7 +2628,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-105.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-105.webp"
+      "thumb": "assets/cards/thumbs/TY01-105.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-106",
@@ -2548,7 +2653,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-106.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-106.webp"
+      "thumb": "assets/cards/thumbs/TY01-106.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-107",
@@ -2572,7 +2678,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-107.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-107.webp"
+      "thumb": "assets/cards/thumbs/TY01-107.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-108",
@@ -2596,7 +2703,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-108.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-108.webp"
+      "thumb": "assets/cards/thumbs/TY01-108.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-109",
@@ -2620,7 +2728,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-109.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-109.webp"
+      "thumb": "assets/cards/thumbs/TY01-109.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-110",
@@ -2644,7 +2753,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-110.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-110.webp"
+      "thumb": "assets/cards/thumbs/TY01-110.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-111",
@@ -2668,7 +2778,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-111.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-111.webp"
+      "thumb": "assets/cards/thumbs/TY01-111.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-112",
@@ -2692,7 +2803,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-112.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-112.webp"
+      "thumb": "assets/cards/thumbs/TY01-112.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-113",
@@ -2716,7 +2828,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-113.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-113.webp"
+      "thumb": "assets/cards/thumbs/TY01-113.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-114",
@@ -2740,7 +2853,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-114.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-114.webp"
+      "thumb": "assets/cards/thumbs/TY01-114.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-115",
@@ -2764,7 +2878,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-115.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-115.webp"
+      "thumb": "assets/cards/thumbs/TY01-115.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-116",
@@ -2788,7 +2903,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-116.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-116.webp"
+      "thumb": "assets/cards/thumbs/TY01-116.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-117",
@@ -2812,7 +2928,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-117.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-117.webp"
+      "thumb": "assets/cards/thumbs/TY01-117.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-118",
@@ -2836,7 +2953,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-118.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-118.webp"
+      "thumb": "assets/cards/thumbs/TY01-118.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-119",
@@ -2860,7 +2978,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-119.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-119.webp"
+      "thumb": "assets/cards/thumbs/TY01-119.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-120",
@@ -2884,7 +3003,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-120.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-120.webp"
+      "thumb": "assets/cards/thumbs/TY01-120.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-121",
@@ -2908,7 +3028,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-121.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-121.webp"
+      "thumb": "assets/cards/thumbs/TY01-121.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-122",
@@ -2932,7 +3053,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-122.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-122.webp"
+      "thumb": "assets/cards/thumbs/TY01-122.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-123",
@@ -2956,7 +3078,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-123.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-123.webp"
+      "thumb": "assets/cards/thumbs/TY01-123.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-124",
@@ -2980,7 +3103,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-124.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-124.webp"
+      "thumb": "assets/cards/thumbs/TY01-124.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-125",
@@ -3004,7 +3128,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-125.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-125.webp"
+      "thumb": "assets/cards/thumbs/TY01-125.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-126",
@@ -3028,7 +3153,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-126.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-126.webp"
+      "thumb": "assets/cards/thumbs/TY01-126.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-127",
@@ -3052,7 +3178,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-127.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-127.webp"
+      "thumb": "assets/cards/thumbs/TY01-127.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-128",
@@ -3076,7 +3203,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-128.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-128.webp"
+      "thumb": "assets/cards/thumbs/TY01-128.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-129",
@@ -3100,7 +3228,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-129.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-129.webp"
+      "thumb": "assets/cards/thumbs/TY01-129.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-130",
@@ -3124,7 +3253,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-130.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-130.webp"
+      "thumb": "assets/cards/thumbs/TY01-130.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-131",
@@ -3148,7 +3278,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-131.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-131.webp"
+      "thumb": "assets/cards/thumbs/TY01-131.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-132",
@@ -3172,7 +3303,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-132.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-132.webp"
+      "thumb": "assets/cards/thumbs/TY01-132.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-133",
@@ -3196,7 +3328,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-133.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-133.webp"
+      "thumb": "assets/cards/thumbs/TY01-133.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-134",
@@ -3220,7 +3353,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-134.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-134.webp"
+      "thumb": "assets/cards/thumbs/TY01-134.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-135",
@@ -3244,7 +3378,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-135.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-135.webp"
+      "thumb": "assets/cards/thumbs/TY01-135.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-136",
@@ -3268,7 +3403,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-136.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-136.webp"
+      "thumb": "assets/cards/thumbs/TY01-136.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-137",
@@ -3292,7 +3428,8 @@
       "starterCount": 1,
       "image": "assets/cards/webp/TY01-137.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-137.webp"
+      "thumb": "assets/cards/thumbs/TY01-137.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-138",
@@ -3316,7 +3453,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-138.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-138.webp"
+      "thumb": "assets/cards/thumbs/TY01-138.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-139",
@@ -3340,7 +3478,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-139.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-139.webp"
+      "thumb": "assets/cards/thumbs/TY01-139.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-140",
@@ -3364,7 +3503,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-140.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-140.webp"
+      "thumb": "assets/cards/thumbs/TY01-140.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-141",
@@ -3388,7 +3528,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-141.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-141.webp"
+      "thumb": "assets/cards/thumbs/TY01-141.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-142",
@@ -3412,7 +3553,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-142.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-142.webp"
+      "thumb": "assets/cards/thumbs/TY01-142.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-143",
@@ -3436,7 +3578,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-143.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-143.webp"
+      "thumb": "assets/cards/thumbs/TY01-143.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-144",
@@ -3460,7 +3603,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-144.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-144.webp"
+      "thumb": "assets/cards/thumbs/TY01-144.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-145",
@@ -3484,7 +3628,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-145.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-145.webp"
+      "thumb": "assets/cards/thumbs/TY01-145.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-146",
@@ -3508,7 +3653,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-146.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-146.webp"
+      "thumb": "assets/cards/thumbs/TY01-146.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-147",
@@ -3532,7 +3678,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-147.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-147.webp"
+      "thumb": "assets/cards/thumbs/TY01-147.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-148",
@@ -3556,7 +3703,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-148.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-148.webp"
+      "thumb": "assets/cards/thumbs/TY01-148.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-149",
@@ -3580,7 +3728,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-149.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-149.webp"
+      "thumb": "assets/cards/thumbs/TY01-149.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-150",
@@ -3604,7 +3753,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-150.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-150.webp"
+      "thumb": "assets/cards/thumbs/TY01-150.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-151",
@@ -3628,7 +3778,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-151.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-151.webp"
+      "thumb": "assets/cards/thumbs/TY01-151.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-152",
@@ -3652,7 +3803,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-152.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-152.webp"
+      "thumb": "assets/cards/thumbs/TY01-152.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-153",
@@ -3676,7 +3828,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-153.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-153.webp"
+      "thumb": "assets/cards/thumbs/TY01-153.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-154",
@@ -3700,7 +3853,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-154.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-154.webp"
+      "thumb": "assets/cards/thumbs/TY01-154.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-155",
@@ -3724,7 +3878,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-155.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-155.webp"
+      "thumb": "assets/cards/thumbs/TY01-155.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-156",
@@ -3748,7 +3903,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-156.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-156.webp"
+      "thumb": "assets/cards/thumbs/TY01-156.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-157",
@@ -3772,7 +3928,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-157.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-157.webp"
+      "thumb": "assets/cards/thumbs/TY01-157.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-158",
@@ -3796,7 +3953,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-158.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-158.webp"
+      "thumb": "assets/cards/thumbs/TY01-158.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-159",
@@ -3820,7 +3978,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-159.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-159.webp"
+      "thumb": "assets/cards/thumbs/TY01-159.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-160",
@@ -3844,7 +4003,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-160.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-160.webp"
+      "thumb": "assets/cards/thumbs/TY01-160.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-161",
@@ -3868,7 +4028,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-161.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-161.webp"
+      "thumb": "assets/cards/thumbs/TY01-161.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-162",
@@ -3892,7 +4053,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-162.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-162.webp"
+      "thumb": "assets/cards/thumbs/TY01-162.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-163",
@@ -3916,7 +4078,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-163.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-163.webp"
+      "thumb": "assets/cards/thumbs/TY01-163.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-164",
@@ -3940,7 +4103,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-164.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-164.webp"
+      "thumb": "assets/cards/thumbs/TY01-164.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-165",
@@ -3964,7 +4128,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-165.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-165.webp"
+      "thumb": "assets/cards/thumbs/TY01-165.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-166",
@@ -3988,7 +4153,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-166.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-166.webp"
+      "thumb": "assets/cards/thumbs/TY01-166.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-167",
@@ -4012,7 +4178,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-167.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-167.webp"
+      "thumb": "assets/cards/thumbs/TY01-167.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-168",
@@ -4036,7 +4203,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-168.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-168.webp"
+      "thumb": "assets/cards/thumbs/TY01-168.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-169",
@@ -4060,7 +4228,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-169.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-169.webp"
+      "thumb": "assets/cards/thumbs/TY01-169.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-170",
@@ -4084,7 +4253,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-170.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-170.webp"
+      "thumb": "assets/cards/thumbs/TY01-170.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-171",
@@ -4108,7 +4278,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-171.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-171.webp"
+      "thumb": "assets/cards/thumbs/TY01-171.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-172",
@@ -4132,7 +4303,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-172.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-172.webp"
+      "thumb": "assets/cards/thumbs/TY01-172.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-173",
@@ -4156,7 +4328,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-173.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-173.webp"
+      "thumb": "assets/cards/thumbs/TY01-173.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-174",
@@ -4180,7 +4353,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-174.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-174.webp"
+      "thumb": "assets/cards/thumbs/TY01-174.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-175",
@@ -4204,7 +4378,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-175.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-175.webp"
+      "thumb": "assets/cards/thumbs/TY01-175.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-176",
@@ -4228,7 +4403,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-176.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-176.webp"
+      "thumb": "assets/cards/thumbs/TY01-176.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-177",
@@ -4252,7 +4428,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-177.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-177.webp"
+      "thumb": "assets/cards/thumbs/TY01-177.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-178",
@@ -4276,7 +4453,8 @@
       "starterCount": 3,
       "image": "assets/cards/webp/TY01-178.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-178.webp"
+      "thumb": "assets/cards/thumbs/TY01-178.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-179",
@@ -4300,7 +4478,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-179.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-179.webp"
+      "thumb": "assets/cards/thumbs/TY01-179.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-180",
@@ -4324,7 +4503,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-180.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-180.webp"
+      "thumb": "assets/cards/thumbs/TY01-180.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-181",
@@ -4348,7 +4528,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-181.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-181.webp"
+      "thumb": "assets/cards/thumbs/TY01-181.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-182",
@@ -4372,7 +4553,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-182.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-182.webp"
+      "thumb": "assets/cards/thumbs/TY01-182.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-183",
@@ -4396,7 +4578,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-183.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-183.webp"
+      "thumb": "assets/cards/thumbs/TY01-183.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-184",
@@ -4420,7 +4603,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-184.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-184.webp"
+      "thumb": "assets/cards/thumbs/TY01-184.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-185",
@@ -4444,7 +4628,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-185.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-185.webp"
+      "thumb": "assets/cards/thumbs/TY01-185.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-186",
@@ -4468,7 +4653,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-186.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-186.webp"
+      "thumb": "assets/cards/thumbs/TY01-186.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-187",
@@ -4492,7 +4678,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-187.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-187.webp"
+      "thumb": "assets/cards/thumbs/TY01-187.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-188",
@@ -4516,7 +4703,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-188.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-188.webp"
+      "thumb": "assets/cards/thumbs/TY01-188.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-189",
@@ -4540,7 +4728,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-189.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-189.webp"
+      "thumb": "assets/cards/thumbs/TY01-189.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-190",
@@ -4564,7 +4753,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-190.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-190.webp"
+      "thumb": "assets/cards/thumbs/TY01-190.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-191",
@@ -4588,7 +4778,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-191.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-191.webp"
+      "thumb": "assets/cards/thumbs/TY01-191.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-192",
@@ -4612,7 +4803,8 @@
       "starterCount": 1,
       "image": "assets/cards/webp/TY01-192.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-192.webp"
+      "thumb": "assets/cards/thumbs/TY01-192.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-193",
@@ -4636,7 +4828,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-193.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-193.webp"
+      "thumb": "assets/cards/thumbs/TY01-193.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-194",
@@ -4660,7 +4853,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-194.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-194.webp"
+      "thumb": "assets/cards/thumbs/TY01-194.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-195",
@@ -4684,7 +4878,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-195.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-195.webp"
+      "thumb": "assets/cards/thumbs/TY01-195.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-196",
@@ -4708,7 +4903,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-196.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-196.webp"
+      "thumb": "assets/cards/thumbs/TY01-196.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-197",
@@ -4732,7 +4928,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-197.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-197.webp"
+      "thumb": "assets/cards/thumbs/TY01-197.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-198",
@@ -4756,7 +4953,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-198.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-198.webp"
+      "thumb": "assets/cards/thumbs/TY01-198.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-199",
@@ -4780,7 +4978,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-199.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-199.webp"
+      "thumb": "assets/cards/thumbs/TY01-199.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-200",
@@ -4804,7 +5003,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-200.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-200.webp"
+      "thumb": "assets/cards/thumbs/TY01-200.webp",
+      "requiresHorizontal": true
     },
     {
       "id": "TY01-201",
@@ -4828,7 +5028,8 @@
       "starterCount": 1,
       "image": "assets/cards/webp/TY01-201.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-201.webp"
+      "thumb": "assets/cards/thumbs/TY01-201.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-202",
@@ -4852,7 +5053,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-202.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-202.webp"
+      "thumb": "assets/cards/thumbs/TY01-202.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-203",
@@ -4876,7 +5078,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-203.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-203.webp"
+      "thumb": "assets/cards/thumbs/TY01-203.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-204",
@@ -4900,7 +5103,8 @@
       "starterCount": 1,
       "image": "assets/cards/webp/TY01-204.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-204.webp"
+      "thumb": "assets/cards/thumbs/TY01-204.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-205",
@@ -4924,7 +5128,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-205.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-205.webp"
+      "thumb": "assets/cards/thumbs/TY01-205.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-206",
@@ -4948,7 +5153,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-206.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-206.webp"
+      "thumb": "assets/cards/thumbs/TY01-206.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-207",
@@ -4972,7 +5178,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-207.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-207.webp"
+      "thumb": "assets/cards/thumbs/TY01-207.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-208",
@@ -4996,7 +5203,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-208.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-208.webp"
+      "thumb": "assets/cards/thumbs/TY01-208.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-209",
@@ -5020,7 +5228,8 @@
       "starterCount": 1,
       "image": "assets/cards/webp/TY01-209.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-209.webp"
+      "thumb": "assets/cards/thumbs/TY01-209.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-210",
@@ -5044,7 +5253,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-210.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-210.webp"
+      "thumb": "assets/cards/thumbs/TY01-210.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-211",
@@ -5068,7 +5278,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-211.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-211.webp"
+      "thumb": "assets/cards/thumbs/TY01-211.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-212",
@@ -5092,7 +5303,8 @@
       "starterCount": 1,
       "image": "assets/cards/webp/TY01-212.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-212.webp"
+      "thumb": "assets/cards/thumbs/TY01-212.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-213",
@@ -5116,7 +5328,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-213.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-213.webp"
+      "thumb": "assets/cards/thumbs/TY01-213.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-214",
@@ -5140,7 +5353,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-214.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-214.webp"
+      "thumb": "assets/cards/thumbs/TY01-214.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-215",
@@ -5164,7 +5378,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-215.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-215.webp"
+      "thumb": "assets/cards/thumbs/TY01-215.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-216",
@@ -5188,7 +5403,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-216.webp",
       "imageKind": "普",
-      "thumb": "assets/cards/thumbs/TY01-216.webp"
+      "thumb": "assets/cards/thumbs/TY01-216.webp",
+      "requiresHorizontal": false
     },
     {
       "id": "TY01-217",
@@ -5212,7 +5428,8 @@
       "starterCount": 0,
       "image": "assets/cards/webp/TY01-217.webp",
       "imageKind": "闪",
-      "thumb": "assets/cards/thumbs/TY01-217.webp"
+      "thumb": "assets/cards/thumbs/TY01-217.webp",
+      "requiresHorizontal": false
     }
   ],
   "extras": []

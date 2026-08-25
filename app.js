@@ -4,6 +4,7 @@
   filtered: [],
   decks: [],
   activeDeckId: "",
+  factionFilter: "",
   previewCard: null,
 };
 
@@ -11,7 +12,7 @@ const els = {
   grid: document.querySelector("#cardGrid"),
   resultCount: document.querySelector("#resultCount"),
   search: document.querySelector("#searchInput"),
-  faction: document.querySelector("#factionFilter"),
+  horizontal: document.querySelector("#horizontalFilter"),
   type: document.querySelector("#typeFilter"),
   rarity: document.querySelector("#rarityFilter"),
   cost: document.querySelector("#costFilter"),
@@ -50,7 +51,7 @@ const externalLink = "https://xyxxcx.sanguosha.com/h5/link.html?prefix=1JW4ZgBxd
 init();
 
 async function init() {
-  const response = await fetch("data/cards.json?v=20260713a");
+  const response = await fetch("data/cards.json?v=20260825a");
   const payload = await response.json();
   state.cards = payload.cards;
   state.extras = payload.extras || [];
@@ -63,7 +64,7 @@ async function init() {
 }
 
 function bindEvents() {
-  [els.search, els.faction, els.type, els.rarity, els.cost, els.sort].forEach((el) => {
+  [els.search, els.horizontal, els.type, els.rarity, els.cost, els.sort].forEach((el) => {
     el.addEventListener("input", applyFilters);
   });
   document.querySelector("#clearFilters").addEventListener("click", clearFilters);
@@ -100,7 +101,7 @@ function openExternalLink() {
 }
 
 function fillFilters() {
-  fillSelect(els.faction, "全部势力", unique("faction"));
+  fillHorizontalFilter();
   fillSelect(els.type, "全部类别", uniqueTypes());
   fillSelect(els.rarity, "全部稀有度", sortRarities(unique("rarity")));
   fillSelect(els.cost, "全部", ["with", "without"], formatUpgradeFilterOption);
@@ -111,11 +112,26 @@ function fillFilters() {
     button.type = "button";
     button.textContent = faction;
     button.addEventListener("click", () => {
-      els.faction.value = els.faction.value === faction ? "" : faction;
+      state.factionFilter = state.factionFilter === faction ? "" : faction;
       applyFilters();
     });
     els.quickFactions.append(button);
   });
+}
+
+function fillHorizontalFilter() {
+  els.horizontal.innerHTML = "";
+  [
+    ["with", "需要横置"],
+    ["without", "无需横置"],
+    ["", "全部"],
+  ].forEach(([value, label]) => {
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = label;
+    els.horizontal.append(option);
+  });
+  els.horizontal.value = "";
 }
 
 function fillSelect(select, label, values, formatter = (value) => value) {
@@ -148,9 +164,10 @@ function applyFilters() {
     const matchesQuery = terms.every((term) => haystack.includes(term));
     return (
       matchesQuery &&
-      matches(card.faction, els.faction.value) &&
+      matches(card.faction, state.factionFilter) &&
       matchesType(card, els.type.value) &&
       matches(card.rarity, els.rarity.value) &&
+      matchesHorizontal(card, els.horizontal.value) &&
       matchesUpgrade(card, els.cost.value)
     );
   });
@@ -187,6 +204,12 @@ function matchesUpgrade(card, expected) {
   return expected === "with" ? hasUpgrade : !hasUpgrade;
 }
 
+function matchesHorizontal(card, expected) {
+  if (!expected) return true;
+  const needsHorizontal = Boolean(card.requiresHorizontal);
+  return expected === "with" ? needsHorizontal : !needsHorizontal;
+}
+
 function sortCards(cards) {
   const mode = els.sort.value;
   cards.sort((a, b) => {
@@ -219,7 +242,7 @@ function bySerial(a, b) {
 
 function syncQuickButtons() {
   [...els.quickFactions.children].forEach((button) => {
-    button.classList.toggle("active", button.textContent === els.faction.value);
+    button.classList.toggle("active", button.textContent === state.factionFilter);
   });
 }
 
@@ -365,7 +388,8 @@ function findCard(id) {
 
 function clearFilters() {
   els.search.value = "";
-  els.faction.value = "";
+  state.factionFilter = "";
+  els.horizontal.value = "";
   els.type.value = "";
   els.rarity.value = "";
   els.cost.value = "";
@@ -425,7 +449,7 @@ function switchDeck() {
 }
 
 function loadStarter() {
-  const faction = els.faction.value || prompt("输入要导入的预组势力：魏、蜀、吴、群", "魏");
+  const faction = state.factionFilter || prompt("输入要导入的预组势力：魏、蜀、吴、群", "魏");
   if (!faction) return;
   const next = {};
   state.cards.forEach((card) => {
